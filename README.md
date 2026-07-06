@@ -1,2 +1,25 @@
-# 9ab04b33-finance-accounting-client-re
-The finance accounting tool you'd build yourself — if you had the time.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Finance &amp; Accounting Client Reporting Dashboard — fully configured and ready to use - Fully editable: all fields, colo
+# Finance & Accounting Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oUdR9dPp2k46xy33mcZG0Y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUdR9dPp2k46xy33mcZG0Y)
+
